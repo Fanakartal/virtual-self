@@ -24,7 +24,7 @@ As ''bibtex'' citation:
 >    address      = {New York, NY, USA}  
 >}
   
-- If you want to cite particular experiments that are conducted with the help of our VR platform, please cite:
+- If you want to use particular experiments that are conducted with the help of our VR platform, please cite:
 
   * For Experiment #1:
 
