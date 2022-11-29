@@ -45,4 +45,10 @@ You can extract the corresponding ".zip" files in Builds folder and use the ".ex
 ## Unity Version
 
 Unity version 2019.3.9f1 is used for the environment.
+
+## About Paid Software We Used in Our Environment and Experiments
+
+FinalIK is a software from RootMotion (http://root-motion.com/) with "Extension Asset" license type on Unity Asset Store. If you want to use it, you need to buy the asset. You can buy it from [here](https://assetstore.unity.com/packages/tools/animation/final-ik-14290).
+
+RFT is used with the permission of VirtualisVR (https://virtualisvr.com/en/) company. We are grateful for their academic permission. You can investigate RVR software and their other solutions from their website.
   
