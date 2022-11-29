@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: T-p2r
+  m_TargetType:
+    m_NativeTypeID: 4
+    m_ManagedTypePPtr: {fileID: 0}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_LocalRotation.x
+    value: 0.26324582
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LocalRotation.y
+    value: 0.005157037
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LocalRotation.z
+    value: 0.023508888
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LocalRotation.w
+    value: 0.96442854
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LocalPosition.x
+    value: -0.000000104308036
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LocalPosition.y
+    value: 0.24032168
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LocalPosition.z
+    value: -0.000010065721
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LocalScale.x
+    value: 0.9999985
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LocalScale.y
+    value: 1.0000044
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LocalScale.z
+    value: 0.999997
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_RootOrder
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LocalEulerAnglesHint.x
+    value: 30.499
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LocalEulerAnglesHint.y
+    value: 1.485
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LocalEulerAnglesHint.z
+    value: 3.1970003
+    objectReference: {fileID: 0}

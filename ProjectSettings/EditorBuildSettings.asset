@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/___Experiment3_AllScenes/___Experiment3_Scene0-MainMenu.unity
+    guid: 8c03523785d8ad94c8e6c278bb9488a2
+  - enabled: 1
+    path: Assets/___Experiment3_AllScenes/___Experiment3_Scene1-MaleStanding.unity
+    guid: cd43b7b3a12b6164692ae9afd67bd0a5
+  - enabled: 1
+    path: Assets/___Experiment3_AllScenes/___Experiment3_Scene2_2-MaleStanding-MovingCam.unity
+    guid: 202f8fc113e4730489d7c6698033e715
+  - enabled: 1
+    path: Assets/___Experiment3_AllScenes/___Experiment3_Scene3-FemaleStanding.unity
+    guid: b94cdbe9497445443b540f35da7f1cf0
+  - enabled: 1
+    path: Assets/___Experiment3_AllScenes/___Experiment3_Scene4_2-FemaleStanding-MovingCam.unity
+    guid: 5e7235e26e1cb7844b10dae787af3dd1
+  - enabled: 1
+    path: Assets/___Experiment3_AllScenes/___Experiment3_Scene5-MaleLying.unity
+    guid: eee95a43d87eb9041ac7ae6b9521dabb
+  - enabled: 1
+    path: Assets/___Experiment3_AllScenes/___Experiment3_Scene6_2-MaleLying-MovingCam.unity
+    guid: c8055603d1ea8dc418e3b8b0e417acc1
+  - enabled: 1
+    path: Assets/___Experiment3_AllScenes/___Experiment3_Scene7-FemaleLying.unity
+    guid: db3bada34146301488fb9060df35a7e3
+  - enabled: 1
+    path: Assets/___Experiment3_AllScenes/___Experiment3_Scene8_2-FemaleLying-MovingCam.unity
+    guid: 652d83120ce94c446a16d1704402b109
+  - enabled: 1
+    path: Assets/___Experiment3_AllScenes/___Experiment3_Scene1_0-MaleDark.unity
+    guid: d3b3d9633fa45a44b894572dafcf9e0c
+  - enabled: 1
+    path: Assets/___Experiment3_AllScenes/___Experiment3_Scene3_0-FemaleDark.unity
+    guid: 19903bdec1f2f6047834870bea059646
+  - enabled: 1
+    path: Assets/___Experiment3_AllScenes/___Experiment3_Scene5_0-MaleLyingDark.unity
+    guid: ee58913878f96e147b5a8a33fca9d0e6
+  - enabled: 1
+    path: Assets/___Experiment3_AllScenes/___Experiment3_Scene7_0-FemaleLyingDark.unity
+    guid: 2da5b5738f3151542af294f94205345b
+  - enabled: 1
+    path: Assets/___Experiment3_AllScenes/___Experiment3_Scene2_1-MaleStanding-VisibleCtrl.unity
+    guid: eda7b7e801c8e7e4fb3053ee7b2285ab
+  - enabled: 1
+    path: Assets/___Experiment3_AllScenes/___Experiment3_Scene4_1-FemaleStanding-VisibleCtrl.unity
+    guid: a430315a0477c8b43aa38065d32dd09f
+  - enabled: 1
+    path: Assets/___Experiment3_AllScenes/___Experiment3_Scene6_1-MaleLying-VisibleCtrl.unity
+    guid: 0c1cca678dc797b4b8ee009b82dab139
+  - enabled: 1
+    path: Assets/___Experiment3_AllScenes/___Experiment3_Scene8_1-FemaleLying-VisibleCtrl.unity
+    guid: 0ca4c646782e51142a969c6e6d6985fe
+  m_configObjects: {}
