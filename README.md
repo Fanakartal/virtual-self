@@ -41,3 +41,8 @@ As ''bibtex'' citation:
 ## Usage
 
 You can extract the corresponding ".zip" files in Builds folder and use the ".exe" files in them to conduct the aforementioned experiments yourself.
+
+## Unity Version
+
+Unity version 2019.3.9f1 is used for the environment.
+  
