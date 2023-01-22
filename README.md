@@ -2,13 +2,13 @@
 A research project repository about using VR for psychological experiments.
   
 
-## Citation
+<!-- ## Citation
 
 - If you want to use our project in your own research studies, please cite:
 
 > Muhtar Çağkan Uludağlı and Burak Erdeniz. 2022. Challenges and Benefits of Using Virtual Reality in Psychology Experiments: A Case Study for Bodily Self-Consciousness. In *Proceedings of Foundations of Digital Games 2023 (FDG '23)*. ACM, New York, NY, USA, 7 pages. 
 
-<!-- (https://doi.org/XXXXXXX.XXXXXXX) -->
+ (https://doi.org/XXXXXXX.XXXXXXX) 
 
 As ''bibtex'' citation:
 
@@ -23,6 +23,8 @@ As ''bibtex'' citation:
 >    publisher    = {ACM},  
 >    address      = {New York, NY, USA}  
 >}
+
+-->
   
 - If you want to use particular experiments that are conducted with the help of our VR platform, please cite:
 
